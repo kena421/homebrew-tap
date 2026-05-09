@@ -1,6 +1,6 @@
 cask "timan" do
-  version "1.0.1"
-  sha256 "9bfc330ef260e286aed3a248660da5da19f20f68d9c4a078f53487e9c4026f3c"
+  version "1.0.2"
+  sha256 "330f5cafb92d93fff4157969763c8e294a77638d2759e4c6bf399e61903452bf"
 
   url "https://github.com/kena421/timan/releases/download/v#{version}/Timan.zip"
   name "Timan"
